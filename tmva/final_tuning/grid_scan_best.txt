@@ -1,0 +1,5 @@
+BestConfigTag=NTrees1200_MaxDepth5_Beta0p20
+NTrees=1200
+MaxDepth=5
+AdaBoostBeta=0.200
+Significance=4.233564
